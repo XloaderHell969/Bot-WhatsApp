@@ -39,8 +39,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riycoders/YoshinoBot.git
-cd YoshinoBot
+git clone https://github.com/XloaderHell969/Bot-WhatsApp
+cd Bot-WhatsApp
 pkg install yarn
 yarn
 npm start
