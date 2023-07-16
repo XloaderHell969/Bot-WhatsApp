@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://d.top4top.io/p_2736lxm6m0.jpg" alt="Yoshino Bot" width="100"/>
+<img src="https://d.top4top.io/p_2736lxm6m0.jpg" alt="VelBot" width="100"/>
 
 
 </p>
@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riycoders"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/XloaderHell969"><img title="Recode" src="https://img.shields.io/badge/Recode-Xloader-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
