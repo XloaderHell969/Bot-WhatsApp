@@ -12,23 +12,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/riycoders/YoshinoBot#requirements">Requirements</a> •
-  <a href="https://github.com/riycoders/YoshinoBot#instalasi">Installation</a> •
-  <a href="https://github.com/riycoders/YoshinoBot#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riycoders/YoshinoBot#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riycoders/YoshinoBot#donate">Donate</a>
+  <a href="https://github.com/XloaderHell969/Bot-WhatsApp#requirements">Requirements</a> •
+  <a href="https://github.com/XloaderHell969/Bot-WhatsAppt#thanks-to">Thanks to</a> •
+  <a href="https://github.com/XloaderHell969/Bot-WhatsApp#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/XloaderHell969/Bot-WhatsApp#donate">Donate</a>
 </p>
 </div>
 
 ---
 
 ## Information
-> Yoshino Bot adalah bot yang awalnya memakai base dari [chitandabot](https://github.com/rtwone/chitandabot). Yoshino Bot is a bot whatsapp using a Baileys library.
+> Vel Bot adalah bot yang awalnya memakai base dari [chitandabot](https://github.com/rtwone/chitandabot). Vel Bot is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-yoshino](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-vel](https://wa.me/6288294029936)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -52,13 +51,13 @@ npm start
 ```ts
 {
   "ownerNumber": [
-    "6281575886399@s.whatsapp.net",
-    "6287806923281@s.whatsapp.net"],
+    "6288294029936@s.whatsapp.net",
+    "6288294029936@s.whatsapp.net"],
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "Vel",
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "6288294029936",
+	"gopay": "6288294029936"
   },
   "gamewaktu": 90,
   "limitCount": 25,
@@ -69,11 +68,6 @@ npm start
 }
 
 ```
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/8s2lHsgYaCc)<br>
-
 ----------
 
 <p align="center">
@@ -81,11 +75,11 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6288294029936?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6288294029936?text=Bang+mau+donasi)
 
 # Official Group
-- [Group](https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY)
+- [Group](https://t.me/@VenLinXD)
 
 # Thanks to
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![Irfan](https://github.com/rtwone.png?size=100)](https://github.com/rtwone) | [![Yoga](https://github.com/YogGanz.png?size=100)](https://github.com/YogGanz) | [![Caliph](http://github.com/caliphdev.png?size=100)](http://github.com/caliphdev) | [![Handoko](http://github.com/handoko19.png?size=100)](http://github.com/handoko19) | [![Arthur](http://github.com/arthur-md.png?size=100)](http://github.com/arthur-md) | [![Riy](http://github.com/riycoders.png?size=100)](http://github.com/riycoders)
