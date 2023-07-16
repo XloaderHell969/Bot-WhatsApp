@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="YOSHINO BOT" src="https://img.shields.io/badge/YOSHINO BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="YOSHINO BOT" src="https://img.shields.io/badge/Vel Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/rtwone"><img title="Author" src="https://img.shields.io/badge/Author-Irfan-red.svg?style=for-the-badge&logo=github"></a>
@@ -71,7 +71,7 @@ npm start
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/8s2lHsgYaCc"><img src="https://e.top4top.io/p_2736otrab1.png" />
+  <a href="https://youtu.be/PA9QA5Sw6tk"><img src="https://i.ibb.co/GJyCkYn/Anonymous-logo-402778.jpg" />
 </p>
 
 ## Donate
