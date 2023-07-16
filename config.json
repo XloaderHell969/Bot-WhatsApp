@@ -1,0 +1,17 @@
+{
+  "ownerNumber": [
+    "6288294029936@s.whatsapp.net",
+    "6287798246641@s.whatsapp.net"],
+  "ownerName": "Velin",
+  "botName": "VelBot",
+  "donasi": {
+	"dana": "085171230159",
+	"gopay": "085171230159"
+  },
+  "gamewaktu": 30,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
